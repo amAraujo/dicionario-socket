@@ -1,1 +1,1 @@
-# dicionario-socket
+# Implementação de socket em java
